@@ -1,0 +1,5 @@
+Permissions:
+  StrellaMC:Admin:pl:
+    DenyMessage: "&cYou don't have permission to do that!"
+    BlackListed:
+      - '/pl'

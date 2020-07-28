@@ -1,0 +1,11 @@
+main: me.MuchDan.CommandOverride.CommandOverride
+name: CommandOverride
+author: MuchDan
+version: 0.0.0
+api-version: 1.16
+
+commands:
+  CommandOverride:
+    permission-message: You don't have permission to do that!
+    permission: CommandOverride.Admin
+    description: CommandOverride Admin Commands.
